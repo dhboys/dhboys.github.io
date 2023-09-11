@@ -18,9 +18,11 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: dhboys <br> 기술블로그 # the main title
+title: dhboys # the main title
 
-tagline: 다양한 기술을 정리하는 기술 블로그입니다. # it will display as the sub-title
+tagline: front-end developer # it will display as the sub-title
+
+subdescription: 기술블로그 입니다.
 
 description: >- # used by seo meta and the atom feed
   기술블로그
