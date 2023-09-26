@@ -30,7 +30,7 @@ tags: [favicon]
         ```sudo docker run hello-world```
 
 <H1>Docker 사용자 권한</H1>
-
+> 참고: https://velog.io/@inhwa1025/Docker-CentOS-7%EC%97%90-Docker-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0
 1. docker 서치 시 자동으로 그룹 생성
 
 2. docker 그룹에 사용자 추가   
